@@ -18,7 +18,7 @@
 
 👤 **Prajwal**
 
-* Website: [Prajwaal.tech](http://prajwaal.tech)
+* Website: [Prajwaal.dev](http://prajwaal.dev)
 * Twitter: [@Prajwal_b_k](https://twitter.com/Prajwal_b_k)
 * Github: [@prajwal3104](https://github.com/prajwal3104)
 * LinkedIn: [@prajwal-kumbar](https://www.linkedin.com/in/prajwal-kumbar)
