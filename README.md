@@ -16,7 +16,7 @@
 
 > I will be maintaining a single repo for all my Data Analytical works. With particular data and links to visualize my work.
 
-### 1.Employee Data Analysis 
+### [1.Employee Data Analysis](https://github.com/prajwal3104/Data-Analytics-with-Looker/tree/main/Employee%20Data%20Analysis)
 
 ## Author
 
