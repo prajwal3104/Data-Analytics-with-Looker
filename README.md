@@ -12,6 +12,11 @@
 
 > In this repo, you will find a demonstration of my skills in presenting data through visually appealing and insightful dashboards. I have utilized a variety of tools and techniques to provide customized analytics results that meet the unique needs of my clients. Browse through the repository to see examples of my work and the strategies I've employed to effectively communicate complex data insights.
 
+# Flow of repo 
+
+> I will be maintaining a single repo for all my Data Analytical works. With particular data and links to visualize my work.
+
+### 1.Employee Data Analysis 
 
 ## Author
 
