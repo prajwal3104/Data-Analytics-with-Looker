@@ -9,7 +9,8 @@
   </a>
 </p>
 
-<img width="1440" alt="Screenshot 2023-03-19 at 5 27 05 PM" src="https://user-images.githubusercontent.com/70045720/226174614-3275aade-2b85-4789-b953-f7a2e9faa185.png">
+[![Screenshot 2023-03-19 at 5 27 05 PM](https://user-images.githubusercontent.com/70045720/226174614-3275aade-2b85-4789-b953-f7a2e9faa185.png)](https://lookerstudio.google.com/reporting/59c81c54-ac07-4154-acf6-b91846568e5c)
+
 
 ### Link to use it: [Employee Data Analysis with looker](https://lookerstudio.google.com/reporting/59c81c54-ac07-4154-acf6-b91846568e5c)
 
